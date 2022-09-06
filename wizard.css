@@ -1,0 +1,12 @@
+body { font-size: medium;
+       font-family: Verdana, Geneva, Ariel, sans-serif; }
+h1, h2 { font-size: 150%;
+    text-decoration: underline; }
+.Decks { border-color:blue;
+         border-style: groove;
+         padding: 30px;
+         margin: 30px;
+         line-height: 2em;
+         font-style: italic; 
+         margin-right: 500px;
+         padding-left: 40px;   }
